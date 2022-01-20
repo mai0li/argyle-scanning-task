@@ -1,0 +1,4 @@
+credentials.py
+output/*
+.idea/*
+__pycache__/*
