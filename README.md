@@ -8,5 +8,5 @@ Hello world!
 -  Ask me for credentials.py 
 	- (you actually know what to put in this file if you're an Argyle employee evaluating this task!) 
 >python main.py
-- Results are in `output`folder :)
+- Results are in `output` folder :)
 - Feel free to contact pedro `at` maioli `dot` dev for any questions!
